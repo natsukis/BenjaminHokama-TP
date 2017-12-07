@@ -1,0 +1,36 @@
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Presentation.exe
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Presentation.pdb
+C:\Users\benja\source\repos\Data\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\benja\source\repos\Data\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Data\Presentation\obj\Debug\Presentation.exe
+C:\Users\benja\source\repos\Data\Presentation\obj\Debug\Presentation.pdb
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Service.dll
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Data.dll
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\EntityFramework.dll
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Service.pdb
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Data.pdb
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\Data.dll.config
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\EntityFramework.xml
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\benja\source\repos\Data\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Presentation\obj\Debug\Presentation.exe
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Presentation\obj\Debug\Presentation.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Presentation.exe.config
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Presentation.exe
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Presentation.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\EntityFramework.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Service.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Data.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Service.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\EntityFramework.xml
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Data.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\bin\Debug\Data.dll.config
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\obj\Debug\Presentation.exe
+D:\Program Files\VisualStudio\repos\Version 2\Data\Presentation\obj\Debug\Presentation.pdb

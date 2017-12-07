@@ -1,0 +1,33 @@
+C:\Users\benja\source\repos\Data\Data\bin\Debug\Data.dll
+C:\Users\benja\source\repos\Data\Data\bin\Debug\Data.pdb
+C:\Users\benja\source\repos\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Data\Data\obj\Debug\Data.dll
+C:\Users\benja\source\repos\Data\Data\obj\Debug\Data.pdb
+C:\Users\benja\source\repos\Data\Data\bin\Debug\Data.dll.config
+C:\Users\benja\source\repos\Data\Data\bin\Debug\EntityFramework.dll
+C:\Users\benja\source\repos\Data\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\benja\source\repos\Data\Data\bin\Debug\EntityFramework.xml
+C:\Users\benja\source\repos\Data\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\benja\source\repos\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\bin\Debug\Data.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\bin\Debug\Data.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\bin\Debug\Data.pdb
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\obj\Debug\Data.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Data\obj\Debug\Data.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\bin\Debug\Data.dll.config
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\bin\Debug\Data.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\bin\Debug\Data.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\bin\Debug\EntityFramework.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\bin\Debug\EntityFramework.xml
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\obj\Debug\Data.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Data\obj\Debug\Data.pdb

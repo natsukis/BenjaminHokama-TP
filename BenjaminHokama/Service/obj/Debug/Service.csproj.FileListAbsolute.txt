@@ -1,0 +1,33 @@
+C:\Users\benja\source\repos\Data\Service\bin\Debug\Service.dll
+C:\Users\benja\source\repos\Data\Service\bin\Debug\Service.pdb
+C:\Users\benja\source\repos\Data\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\benja\source\repos\Data\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Data\Service\obj\Debug\Service.dll
+C:\Users\benja\source\repos\Data\Service\obj\Debug\Service.pdb
+C:\Users\benja\source\repos\Data\Service\bin\Debug\Data.dll
+C:\Users\benja\source\repos\Data\Service\bin\Debug\EntityFramework.dll
+C:\Users\benja\source\repos\Data\Service\bin\Debug\Data.pdb
+C:\Users\benja\source\repos\Data\Service\bin\Debug\Data.dll.config
+C:\Users\benja\source\repos\Data\Service\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\bin\Debug\Service.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\bin\Debug\Service.pdb
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\bin\Debug\Data.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\bin\Debug\Data.pdb
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\bin\Debug\Data.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\obj\Debug\Service.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Data\Service\obj\Debug\Service.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\bin\Debug\Service.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\bin\Debug\Service.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\bin\Debug\Data.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\bin\Debug\EntityFramework.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\bin\Debug\Data.pdb
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\bin\Debug\Data.dll.config
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\bin\Debug\EntityFramework.xml
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\obj\Debug\Service.dll
+D:\Program Files\VisualStudio\repos\Version 2\Data\Service\obj\Debug\Service.pdb
